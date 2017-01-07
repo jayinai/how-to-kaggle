@@ -1,4 +1,4 @@
-# How to Kaggle
+# This article has been depreciated. For an update version, check this [blogpost](https://shuaiw.github.io/2016/07/19/data-science-project-workflow.html).
 
 By [Shuai Wang](https://github.com/ShuaiW)
 
